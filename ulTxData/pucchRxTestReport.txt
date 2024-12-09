@@ -1,0 +1,2 @@
+caseFa2
+repeatIdx0, slotIdx0
