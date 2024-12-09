@@ -6,10 +6,10 @@
     |---dlTxData
     |   |
     |   |
-    |   |---CaseQxx - DL TX various
+    |   |---CaseQxx - DL TX various 76
     |   |
     |   |
-    |   |---CaseRxx - PDSCH TX
+    |   |---CaseRxx - PDSCH TX 58
     |
     |
     |---Doc        
@@ -24,7 +24,13 @@
     |---ulTxData
         |
         |
-        |---CaseAxx - PUSCH TX
+        |---CaseAxx - PUSCH TX 70
         |
         |
-        |---CaseBxx - PUSCH RX
+        |---CaseBxx - PUSCH RX 50
+        |
+        |
+        |---CaseExx - PUCCH TX 88
+        |
+        |
+        |---CaseFxx - PUCCH RX 79       
